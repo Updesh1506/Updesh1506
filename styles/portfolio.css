@@ -333,7 +333,7 @@ padding-top: 30px;
 .project-card{
     width: 90%;
      height: 550px;
-     background-image: url(/assest/images/Project1.png);
+     background-image: url(/assest/images/apple-vision.png);
      background-size: cover;
      position: relative;
      box-shadow: 0px 0px 40px #1f1f1f;
@@ -416,7 +416,7 @@ top: -45px;
     width: 60%;
     display: flex;
     gap: 10px;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 
 }
 
@@ -458,21 +458,21 @@ top: -45px;
 }
 
 #project1{
-    background-image: url(/assest/images/Project1.png);
+    background-image: url(/assest/images/apple-vision.png);
 }
 
 #project2{
     margin-left: 120px;
-    background-image: url(/assest/images/Project2.png);
+    background-image: url(/assest/images/razorpay.png);
 }
 
 #project3{
-    background-image: url(/assest/images/Project3.png);
+    background-image: url(/assest/images/tic\ tac\ game.png);
 }
 
 #project4{
     margin-left: 120px;
-    background-image: url(/assest/images/Project4.png);
+    background-image: url(/assest/images/text-to-voice-generator.png);
 }
 
 @media(max-width:1300px){
